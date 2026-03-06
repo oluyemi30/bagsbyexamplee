@@ -1,4 +1,4 @@
-##Bags by Example
+## Bags by Example
 
 Bags by Example is a developer-focused project designed to help engineers understand and integrate with the Bags ecosystem through practical examples.
 
@@ -6,7 +6,7 @@ Instead of reading only documentation, developers can explore real working imple
 
 This project serves as a step-by-step reference implementation for developers who want to quickly get started building with Bags.
 
-##Overview
+## Overview
 
 This repository demonstrates how to:
 
@@ -22,7 +22,7 @@ Structure a Bags-powered application
 
 The goal is to make onboarding into the Bags ecosystem simple, practical, and developer-friendly.
 
-##Features
+## Features
 
 Example Bags storefront
 
@@ -34,7 +34,7 @@ Clean and simple frontend implementation
 
 Beginner-friendly project structure
 
-##Tech Stack
+## Tech Stack
 
 This project uses modern web development tools:
 
